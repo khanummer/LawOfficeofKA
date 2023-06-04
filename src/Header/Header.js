@@ -43,7 +43,6 @@ function Header() {
           </Navbar.Collapse>
         </Container>
       </Navbar>
-      <img id="splash" src="../imgs/splash.png"/>
     </div>
   );
 }
