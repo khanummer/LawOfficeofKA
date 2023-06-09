@@ -1,9 +1,5 @@
 import React, { Component } from 'react';
-import Container from 'react-bootstrap/Container';
 import './Splash.css';
-
-
-
 
 function Splash() {
     return (
@@ -17,3 +13,5 @@ function Splash() {
 };
 
 export default Splash;
+
+

@@ -4,6 +4,7 @@ import './App.css';
 import Header from "./Header/Header"
 import Services from './Services/Services';
 import Splash from './Splash/Splash';
+import MTT from './MTT/MTT';
 
 
 class App extends Component {
@@ -13,7 +14,7 @@ class App extends Component {
         <Header/>
         <Splash/>
         <Services/>
-        
+        <MTT/>
       </div>
     )
   }
