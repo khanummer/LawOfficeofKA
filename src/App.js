@@ -5,6 +5,7 @@ import Header from "./Header/Header"
 import Services from './Services/Services';
 import Splash from './Splash/Splash';
 import MTT from './MTT/MTT';
+import Footer from './Footer/Footer';
 
 
 class App extends Component {
@@ -14,7 +15,8 @@ class App extends Component {
         <Header/>
         <Splash/>
         <Services/>
-        <MTT/>
+        {/* <MTT/> */}
+        <Footer/>
       </div>
     )
   }
